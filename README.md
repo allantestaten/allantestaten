@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+As a detail-oriented, highly motivated data sicentist who enjoys solving problems, I am excited to add value to organizations through insights I can provide supported by data in addition to continuing to grow and develop from learning from and collaborating with others. 
 <!--
 **allantestaten/allantestaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
