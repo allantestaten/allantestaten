@@ -1,6 +1,8 @@
 ### Hi there 👋
 As a detail-oriented and highly motivated data sicentist who enjoys solving problems, I am excited to add value to organizations through insights I can provide supported by data. Additionally, I look forward to opportunities that allow me to learn from and collaborate with others. 
 
+### You can reach out to me in the following ways:
+
 📫 allante.staten.24@gmail.com
 
 🖥 https://www.linkedin.com/in/allantestaten/
